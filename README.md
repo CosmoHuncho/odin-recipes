@@ -1,1 +1,3 @@
 # odin-recipes
+This is a simple project that will display several recipes.
+As this is officially my first HTML project, I am going to be using everything I've learned so far under TOP (The Odin Project) to aid me in the completion of this project. With the completion of this project, I should have displayed several skills such as knowing how to format and communicate in HTML, as well as how to connect pages together with correct links, images, and any other information I am attempting to transfer.
